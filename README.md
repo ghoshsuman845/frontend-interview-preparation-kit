@@ -54,6 +54,7 @@
   - Positions
   - Animations and Transitions
   - z-index
+  - Accessibility
 
     <details>
       <summary><strong>Useful Resources</strong></summary>
@@ -161,6 +162,17 @@ Adding below a list of small applications that you can practise:
         <li>
           <a href="https://javascript30.com/">30 Days JS Coding Challenge - Wes Bos</a>
         </li>
+        <li>
+          <a href="https://www.youtube.com/watch?v=v_fwMoTVmqw&list=PLe3J6mZBq1xUs529Z-IHiCix4KBm0uLp1&ab_channel=JsCafe">Machine Coding Round Questions by JsCafe</a>
+        </li>
+        <li>
+          <a href=" https://www.youtube.com/watch?v=ZrMO0bCGwFg&list=PLKhlp2qtUcSYQojD5G-ElgHezoCyq2Hgo&ab_channel=RoadsideCoder">Machine Coding Round Questions by RoadsideCoder</a>
+        </li>
+        <li>
+          <a href="https://www.youtube.com/watch?v=Mip6ejPRXko&list=PLe3J6mZBq1xUWVBMpSR2zpp8paWMJQ91b&ab_channel=JsCafe">JS Interview Questions by JsCafe</a> 
+        </li>
+
+       
       </ul>
   </details>    
 
@@ -170,11 +182,38 @@ Don't forget to keep practising questions everyday, as it will not only make you
 
 <details>
  <summary><strong>Web Vitals</strong></summary>
+ 
+ <details>
+   <summary><strong>Core Web Vitals</strong></summary>
+
+   - [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
+   - [First Input Delay (FID)](https://web.dev/fid/)
+   - [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
+ </details>
+
+  <details>
+   <summary><strong>Other metrics</strong></summary>
+
+   - [Interaction to next Paint (INP)](https://web.dev/inp/)
+   - [First Contentful Paint (FCP)](https://web.dev/fcp/)
+   - [Time to First Byte (TTFB)](https://web.dev/ttfb/)
+ </details>
    
 </details>
 
 <details>
  <summary><strong>Web Performance and Optimisations</strong></summary>
+  
+  - [Core Web Vitals](https://web.dev/fast/#core-web-vitals)
+  - [Optimising Images](https://web.dev/fast/#optimize-your-images)
+  - [Optimising Videos](https://web.dev/fast/#lazy-load-images-and-video)
+  - [Optimising Javascript files](https://web.dev/fast/#optimize-your-javascript)
+  - [Optimising resource delivery](https://web.dev/fast/#optimize-your-resource-delivery)
+  - [Optimising CSS files](https://web.dev/fast/#optimize-your-css)
+  - [Optimising third party resources](https://web.dev/fast/#optimize-your-third-party-resources)
+  - [Optimising Web Fonts](https://web.dev/fast/#optimize-webfonts)
+  - [Optimising Network Quality](https://web.dev/fast/#optimize-for-network-quality)
+  - Webpack to optimized/compressed pages (Code splitting, Brotli Compression, Gzip Compression)
    
 </details>
 
@@ -214,25 +253,87 @@ Don't forget to keep practising questions everyday, as it will not only make you
 
 <details>
  <summary><strong>Security</strong></summary>
-   
+
+  - Cross-Site Scripting (XSS)
+  - Cross-Site Request Forgery (CSRF)
+  - SQL Injection Attacks
+  - Distributed Denial Of Service (DDoS) Attack
+  - Man in the Middle Attacks
+  - Read about how to avoid these security breaches
+  - [Content Security Policy (CSP)](https://web.dev/csp/)
+  - CORS
+  - Security headers
 </details>
 
 <details>
  <summary><strong>Design Patterns</strong></summary>
- 
+  
+  - Singleton Pattern
+  - Module Pattern
+  - Factory Pattern
+  - Proxy Pattern
+  - Observer Pattern
+  - Prototype Pattern
+
+</details>
+
+<details>
+ <summary><strong>React Design Patterns</strong></summary>
+  
+  - Con/Pres Pattern
+  - HOC Pattern
+  - Render Props Pattern
+  - Hooks Pattern
+  - Provider Pattern
+  - Compound Pattern
+
 </details>
 
 <details>
  <summary><strong>Rendering Patterns</strong></summary>
+  
+  - Client-Side Rendering (CSR)
+  - Server-Side Rendering (SSR)
+  - Static site generation (SSG)
+  - Static Rendering
+  - Incremental Static Regeneration
+  - Progressive Hydration
+  - Streaming Server-Side Rendering
+  - React Server Components
+  - Selective Hydration
+  - Islands Architecture
+  - Animating View Transitions
    
 </details>
 
 <details>
  <summary><strong>Performance Patterns</strong></summary>
+  
+  - Optimize your loading sequence
+  - Static Import
+  - Dynamic Import
+  - Import On Visibility
+  - Import On Interaction
+  - Route Based Splitting
+  - Bundle Splitting
+  - PRPL Pattern
+  - Tree Shaking
+  - Preload
+  - Prefetch
+  - Preconnect
+  - Optimize loading third-parties
+  - List Virtualization
+  - Compressing JavaScript
    
 </details>
 <details>
  <summary><strong>Other Important Topics</strong></summary>
+
+   - How web works?
+   - HTTPS
+   - How APIs work? REST vs SOAP APIs
+   - API Methods, Headers
+
    
 </details>
 
