@@ -46,7 +46,7 @@
   - Box Model
   - Cascading
   - Specificity
-  - Flex()
+  - Flex
   - Grid
   - Selectors
   - Pseudo-class Vs Pseudo-elements
@@ -166,7 +166,7 @@ Adding below a list of small applications that you can practise:
           <a href="https://www.youtube.com/watch?v=v_fwMoTVmqw&list=PLe3J6mZBq1xUs529Z-IHiCix4KBm0uLp1&ab_channel=JsCafe">Machine Coding Round Questions by JsCafe</a>
         </li>
         <li>
-          <a href=" https://www.youtube.com/watch?v=ZrMO0bCGwFg&list=PLKhlp2qtUcSYQojD5G-ElgHezoCyq2Hgo&ab_channel=RoadsideCoder">Machine Coding Round Questions by RoadsideCoder</a>
+          <a href="https://www.youtube.com/watch?v=ZrMO0bCGwFg&list=PLKhlp2qtUcSYQojD5G-ElgHezoCyq2Hgo&ab_channel=RoadsideCoder">Machine Coding Round Questions by RoadsideCoder</a>
         </li>
         <li>
           <a href="https://www.youtube.com/watch?v=Mip6ejPRXko&list=PLe3J6mZBq1xUWVBMpSR2zpp8paWMJQ91b&ab_channel=JsCafe">JS Interview Questions by JsCafe</a> 
@@ -183,13 +183,13 @@ Don't forget to keep practising questions everyday, as it will not only make you
 <details>
  <summary><strong>Web Vitals</strong></summary>
  
- <details>
+  <details>
    <summary><strong>Core Web Vitals</strong></summary>
 
    - [Cumulative Layout Shift (CLS)](https://web.dev/cls/)
    - [First Input Delay (FID)](https://web.dev/fid/)
    - [Largest Contentful Paint (LCP)](https://web.dev/lcp/)
- </details>
+  </details>
 
   <details>
    <summary><strong>Other metrics</strong></summary>
@@ -197,7 +197,7 @@ Don't forget to keep practising questions everyday, as it will not only make you
    - [Interaction to next Paint (INP)](https://web.dev/inp/)
    - [First Contentful Paint (FCP)](https://web.dev/fcp/)
    - [Time to First Byte (TTFB)](https://web.dev/ttfb/)
- </details>
+  </details>
    
 </details>
 
@@ -213,56 +213,60 @@ Don't forget to keep practising questions everyday, as it will not only make you
   - [Optimising third party resources](https://web.dev/fast/#optimize-your-third-party-resources)
   - [Optimising Web Fonts](https://web.dev/fast/#optimize-webfonts)
   - [Optimising Network Quality](https://web.dev/fast/#optimize-for-network-quality)
-  - Webpack to optimized/compressed pages (Code splitting, Brotli Compression, Gzip Compression)
+  - [Webpack to optimized/compressed pages (Code splitting, Brotli Compression, Gzip Compression)](https://levelup.gitconnected.com/the-ultimate-guide-to-modern-web-application-performance-ec4eec9939)
    
 </details>
 
 <details>
  <summary><strong>Storing Data in browser</strong></summary>
- 
-  - Local Storage
-  - Session Storage
-  - Cookies
-  - IndexedDB
+
+  - [Storage for Web](https://web.dev/storage-for-the-web/)
+  - [Local Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+  - [Session Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage)
+  - [Cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+  - [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+  - [Cache Storage API](https://web.dev/cache-api-quick-guide/)
+
+
    
 </details>
 
 <details>
-  <summary><strong>Network requests</strong></summary>v
+  <summary><strong>Network requests</strong></summary>
 
-   - Fetch API
-   - Abort Controller
-   - XMLHttpRequest
-   - CORS
-   - Long Polling
-   - Websockets
-   - Server Sent Events
-   - Web Sockets
-   - Web Workers
-   - Service Workers
+   - [Fetch API](https://web.dev/introduction-to-fetch/)
+   - [Abort Controller](https://medium.com/@icjoseph/using-react-to-understand-abort-controllers-eb10654485df)
+   - [XMLHttpRequest](https://javascript.info/xmlhttprequest)
+   - [CORS](https://shorturl.at/wxUXY)
+   - [Long Polling](https://www.pubnub.com/blog/http-long-polling/)
+   - [Web Sockets](https://web.dev/websockets-basics/)
+   - [Server Sent Events](https://javascript.info/server-sent-events)
+   - [Web Workers](https://web.dev/workers-basics/)
+   - [Service Workers](https://web.dev/learn/pwa/service-workers/)
 </details>
 
 <details>
  <summary><strong>DOM</strong></summary>
  
-  - Shadow DOM
-  - Virtual DOM
-  - DOM
+  - [Shadow DOM](https://web.dev/shadowdom-v1/)
+  - [Declarative Shadow DOM](https://developer.chrome.com/en/articles/declarative-shadow-dom/#:~:text=Shadow%20DOM%20provides%20a%20way,inserted%20within%20its%20Shadow%20Tree.)
+  - [Virtual DOM](https://adhithiravi.medium.com/react-virtual-dom-explained-in-simple-english-fc2d0b277bc5)
+  - [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
    
 </details>
 
 <details>
  <summary><strong>Security</strong></summary>
 
-  - Cross-Site Scripting (XSS)
-  - Cross-Site Request Forgery (CSRF)
-  - SQL Injection Attacks
-  - Distributed Denial Of Service (DDoS) Attack
-  - Man in the Middle Attacks
+  - [Cross-Site Scripting (XSS)](https://medium.com/codelighthouse/xss-what-it-is-how-it-works-and-how-to-prevent-it-454629e3a0da)
+  - [Cross-Site Request Forgery (CSRF)](https://medium.com/@rajeevranjancom/cross-site-request-forgery-csrf-attack-6949edb9e405#:~:text=Cross%20site%20request%20forgery%20(CSRF)%2C%20also%20known%20as%20XSRF,both%20the%20business%20and%20user.)
+  - [SQL Injection Attacks](https://medium.com/purplebox/sql-injection-da949c39dbe6)
+  - [Distributed Denial Of Service (DDoS) Attack](https://medium.com/@anshulchoudhary227/what-is-a-ddos-attack-5c7db5d92dc8#:~:text=A%20distributed%20denial%2Dof%2Dservice%20(DDoS)%20attack%20is,a%20flood%20of%20Internet%20traffic.)
+  - [Man in the Middle Attacks](https://medium.com/@.Qubit/man-in-the-middle-mitm-attack-19a4faffdc9)
   - Read about how to avoid these security breaches
   - [Content Security Policy (CSP)](https://web.dev/csp/)
-  - CORS
-  - Security headers
+  - [CORS](https://blog.logrocket.com/the-ultimate-guide-to-enabling-cross-origin-resource-sharing-cors/)
+  - [Security headers](https://sundowndev.medium.com/how-important-are-http-security-headers-ad511848eb95)
 </details>
 
 <details>
@@ -274,6 +278,11 @@ Don't forget to keep practising questions everyday, as it will not only make you
   - Proxy Pattern
   - Observer Pattern
   - Prototype Pattern
+  
+  Resources for Design Patterns
+  - [patterns.dev](https://www.patterns.dev/posts/introduction)
+  - [freecodecamp](https://www.freecodecamp.org/news/javascript-design-patterns-explained/)
+  - [javascriptpatterns](https://javascriptpatterns.vercel.app/patterns)
 
 </details>
 
@@ -286,6 +295,10 @@ Don't forget to keep practising questions everyday, as it will not only make you
   - Hooks Pattern
   - Provider Pattern
   - Compound Pattern
+
+  Resources for Design Patterns
+  - [patterns.dev](https://www.patterns.dev/posts/introduction)
+  - [javascriptpatterns](https://javascriptpatterns.vercel.app/patterns)
 
 </details>
 
