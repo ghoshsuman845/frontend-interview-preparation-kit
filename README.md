@@ -353,10 +353,34 @@ Don't forget to keep practising questions everyday, as it will not only make you
 
 ### Week 4 : Time to do some System Design!
 
+Listing some best resources for studying System Design in Frontend, go on and binge watch them:
+
+ - [Front-End Engineer YT Channel](https://www.youtube.com/watch?v=5vyKhm2NTfw&list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT)
+ - [Chirag Goel YT Channel](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
+
+ The above resources will help you in understanding the way you can deal with System Design rounds, although these solutions are not the only ones, you can come up with your own ideas as well. Also, different interviewers have different expectations when they ask you to provide a design for any system, no solution is the best/concrete solution in that case, however you can follow this pattern for framing your answers:
+
+ - [GreatFrontend System Design Framework](https://www.greatfrontend.com/system-design/framework)
 
 
 ### Week 5 : Reading React Docs and Practising!
-Brush up your react by reading React docs and making some small apps in react
+Brush up your react by reading React docs and making some small apps in react.
+
+ Study all the hooks from [React docs](https://react.dev/reference/react):
+  - useState()
+  - useEffect()
+  - useCallback()
+  - useMemo()
+  - useRef()
+  - useReducer()
+  - useContext()
+  - useId()
+  - useLayoutEffect()
+
+  Other important topics:
+  - [What is the virtual DOM in React?](https://blog.logrocket.com/virtual-dom-react/)
+  - [Optimising performance of React App](https://blog.logrocket.com/optimizing-performance-react-app/)
+  - [Reconciliation, Diffing, Batch Update in React](https://youtu.be/rysTbzKOEO0?si=elH9rty-FKrOFwO2)
 
 
 ### Week 6 : Get you hands dirty by practising some DSA questions!
