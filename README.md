@@ -171,8 +171,6 @@ Adding below a list of small applications that you can practise:
         <li>
           <a href="https://www.youtube.com/watch?v=Mip6ejPRXko&list=PLe3J6mZBq1xUWVBMpSR2zpp8paWMJQ91b&ab_channel=JsCafe">JS Interview Questions by JsCafe</a> 
         </li>
-
-       
       </ul>
   </details>    
 
@@ -357,6 +355,8 @@ Listing some best resources for studying System Design in Frontend, go on and bi
 
  - [Front-End Engineer YT Channel](https://www.youtube.com/watch?v=5vyKhm2NTfw&list=PLI9W87-Dqn7j_x6QtR6sUjycJR7nQLBqT)
  - [Chirag Goel YT Channel](https://www.youtube.com/watch?v=sV_4pOGosnU&list=PL4CFloQ4GGWICE0Tz6iXKfN3XWkXRlboU)
+ - [BigFrontend Frontend Design Questions](https://bigfrontend.dev/design)
+ - [GreatFrontend Design Questions](https://www.greatfrontend.com/system-design)
 
  The above resources will help you in understanding the way you can deal with System Design rounds, although these solutions are not the only ones, you can come up with your own ideas as well. Also, different interviewers have different expectations when they ask you to provide a design for any system, no solution is the best/concrete solution in that case, however you can follow this pattern for framing your answers:
 
@@ -381,6 +381,14 @@ Brush up your react by reading React docs and making some small apps in react.
   - [What is the virtual DOM in React?](https://blog.logrocket.com/virtual-dom-react/)
   - [Optimising performance of React App](https://blog.logrocket.com/optimizing-performance-react-app/)
   - [Reconciliation, Diffing, Batch Update in React](https://youtu.be/rysTbzKOEO0?si=elH9rty-FKrOFwO2)
+  - [React Lifecycle Hooks](https://www.freecodecamp.org/news/react-component-lifecycle-methods/)
+  - [Custom Hooks Practise Questions](https://bigfrontend.dev/react)
+  - [React Quizes](https://bigfrontend.dev/react-quiz)
+  - [React Patterns](https://reactpatterns.com/)
+  - [React Cheatsheet](https://devhints.io/react)
+  - [React by Example](https://reactbyexample.github.io/getting-started)
+  - [React Handbook](https://reacthandbook.com/)
+  - [React Coding Challenges](https://reactchallenges.live/dashboard/overview)
 
 
 ### Week 6 : Get you hands dirty by practising some DSA questions!
@@ -394,3 +402,7 @@ Not many companies ask DSA questions for Frontend Engineer roles, but for the sa
   - [Leetcode Strings Interview Questions](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&topicSlugs=string)
   - [Leetcode Sorting Interview Questions](https://leetcode.com/problemset/all/?listId=wpwgkgt&page=1&topicSlugs=sorting)
   - [Leetcode JS Interview Problems](https://leetcode.com/problemset/javascript/)
+
+  ### Tips:
+
+  - Whenever starting with a new topic, don't just read from one resource, try to read atleast 10 articles surrounding that topic from [Medium](https://medium.com/)/other websites.
