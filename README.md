@@ -92,13 +92,15 @@
       - Functional Programming
       - Arrow Functions
       - IIFE
-  - `this` keyword
+  - [`this` keyword](https://medium.com/tech-tajawal/javascript-this-4-rules-7354abdb274c)
+  - [Arrow function and `this` keyword](https://dev.to/bhagatparwinder/arrow-functions-this-keyword-350j)
   - Call, Apply, Bind
   - Closure and it's uses
   - Callbacks, Callback Hell
   - Promises, promise chaining
   - Async/Await
-  - Currying
+  - [Callbacks vs promises vs asyc/await](https://www.freecodecamp.org/news/javascript-async-await-tutorial-learn-callbacks-promises-async-await-by-making-icecream/)
+  - [Currying](https://javascript.plainenglish.io/javascript-currying-comprehensive-guide-e69c47497309)
   - Debouncing and Throttling
   - Event Propagation
     - Bubbling
@@ -107,15 +109,33 @@
   - Prototype and Prototypal Inheritance 
   - Memoisation  
   - Generator Functions  
-  - Working of JS Engine
   - Event Loop , Mictrotasks, Macrotasks
-  - Events: DOMContentLoaded, load, beforeunload, unload
+  - [Events: DOMContentLoaded, load, beforeunload, unload](https://tilomitra.com/html-page-lifecycle-events/)
   - async/defer
   - Polyfills (Mostly asked polyfills : Promise, Promise.all, Promise.any, Promise.race, Promise.allSettled, call, apply, bind, map, reduce, filter, forEach, flat, fetch API)
   - Web APIs
   - setTimout, setInterval
   - High Order Functions
-  - JS Engine
+  - [Working of JS Engine](https://youtu.be/xckH5s3UuX4?si=0S3VazCatZBlDfgv)
+
+    <details>
+      <summary><strong>Useful Resources</strong></summary>
+      <br>
+
+      - Start with watching [Namaste Javascript Playlist | Akshay Saini](https://youtu.be/pN6jk0uUrD8?si=9OSqFUJqgjRp6btb) : It is one of the best resources for understanding the JS concepts in depth, it will help you in revising at end moment.
+      - [MDN Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript) : This is the source of truth for learning JS.
+      - [Javascript Info](https://javascript.info/)
+      - [Nisha Singla JS Playlist](https://youtu.be/Yy9A2rAkOgw?si=C6BeGQ6zLQjiyXFe) : Focus on the following concepts from this channel: Shallow and deep copy, `this` keyword, call apply bind, prototype
+      - [Techsith](https://www.youtube.com/@Techsithtube): Check his interview questions playlist.
+    </details>
+
+    <details>
+      <summary><strong>Javascript Interview questions</strong></summary>
+      <br>
+
+      - [JS Coding Questions | Suman Ghosh](https://github.com/ghoshsuman845/js-coding-questions)
+      - [Js Coding Challenge | Sadanand Pai](https://jscodechallenges.vercel.app/)
+    </details>
 
 </details>
 
@@ -151,6 +171,8 @@ Adding below a list of small applications that you can practise:
   - Create Analog Clock
   - Implement Day Calendar
   - Create a Todo List using Drag and Drop
+
+  You can practise these [JS Mini Challenges](https://github.com/sadanandpai/frontend-mini-challenges)
 
   <details>
       <summary><strong>Useful Resources</strong></summary>
@@ -343,7 +365,8 @@ Don't forget to keep practising questions everyday, as it will not only make you
    - How web works?
    - HTTPS
    - How APIs work? REST vs SOAP APIs
-   - API Methods, Headers
+   - API Methods
+   - [HTTP Headers](https://blog.postman.com/what-are-http-headers/)
 
    
 </details>
@@ -406,6 +429,7 @@ Not many companies ask DSA questions for Frontend Engineer roles, but for the sa
   ### Tips:
 
   - Whenever starting with a new topic, don't just read from one resource, try to read atleast 10 articles surrounding that topic from [Medium](https://medium.com/)/other websites.
+  - Always try to understand the `What, Why and How's?(What is the topic about? Why is it used? How to use/implement it?)` of a topic with an example of it. This gives you a fair and required idea about the topic. You can also take a real time coding implementation of that topic which will give you the best understanding of the topic, rest of the clarity comes with experience and practise.😌
 
  #
  <p align="center">
