@@ -2,7 +2,7 @@
 
 <strong >This repo contains a complete guidance for Frontend Interview Preparation.</strong>
 <div align="center">
-  <img src="./assets/Frontend Interview Preparation Kit.jpg" width="100%"/>
+  <img src="./assets/banner-img.jpg" width="100%"/>
 </div>
 
 
