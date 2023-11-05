@@ -2,11 +2,21 @@
 
 <strong >This repo contains a complete guidance for Frontend Interview Preparation.</strong>
 <div align="center">
-  <img src="./assets/Checklist.jpg" width="100%"/>
+  <img src="./assets/Frontend Interview Preparation Kit.jpg" width="100%"/>
 </div>
 
 
 ### Week 1 : Brushing up HTML, CSS, JS!
+
+```
+Day-wise Schedule:
+
+Day 1: Revise HTML in 0.5 day or less than that. Start with CSS theory revision.
+Day 2: Practise the CSS questions on bfe.dev
+Day 3-4: Watch Namaste JS playlist for a refresher. This will take two days as there are good amount of videos, it's always good if you can complete it in less time.
+Day 5-7: Focus on other topics that weren't covered in the playlist. Practise the polyfills by coding them yourself, not just on the notebook but also on the laptop.
+
+```
 
 <details>
   <summary><strong>Important HTML Topics</strong></summary>
@@ -61,6 +71,7 @@
       <br>
 
       - [Best Resource : CSS Web.Dev](https://web.dev/learn/css/)
+      - [bfe.dev](https://bigfrontend.dev/css): best resource to practise css questions
       - [Practise by Patterns](https://web.dev/patterns/)
       - [10 Amazing games to learn CSS](https://daily-dev-tips.com/posts/10-amazing-games-to-learn-css/)
       - [CSS Best practises and Naming conventions](https://hackernoon.com/best-practice-in-css-organisation-and-naming-conventions-4d103ujy)
@@ -112,7 +123,7 @@
   - Event Loop , Mictrotasks, Macrotasks
   - [Events: DOMContentLoaded, load, beforeunload, unload](https://tilomitra.com/html-page-lifecycle-events/)
   - async/defer
-  - Polyfills (Mostly asked polyfills : Promise, Promise.all, Promise.any, Promise.race, Promise.allSettled, call, apply, bind, map, reduce, filter, forEach, flat, fetch API)
+  - [Polyfills](https://github.com/ghoshsuman845/js-polyfills) (Mostly asked polyfills : Promise, Promise.all, Promise.any, Promise.race, Promise.allSettled, call, apply, bind, map, reduce, filter, forEach, flat, fetch API)
   - Web APIs
   - setTimout, setInterval
   - High Order Functions
@@ -172,12 +183,17 @@ Adding below a list of small applications that you can practise:
   - Implement Day Calendar
   - Create a Todo List using Drag and Drop
 
-  You can practise these [JS Mini Challenges](https://github.com/sadanandpai/frontend-mini-challenges)
+  `Note`: 
+  - You need not practise all the questions mentioned above, skip the questions you think you'll be able to solve confidently and pick the once that you feel hesitant about. 
+  - `Practise everything by coding on laptop` as this will not just help in learning but would also `make you confident` and would `increase your coding speed` while you're interviewing.
 
   <details>
       <summary><strong>Useful Resources</strong></summary>
       <br>
       <ul>
+        <li>
+          <a href="https://github.com/sadanandpai/frontend-mini-challenges">JS Mini Challenges - Sadanand Pai</a>
+        </li>
         <li>
           <a href="https://youtu.be/3PHXvlpOkf4">Build 15 JS Projects by FreeCodeCamp</a>
         </li>
@@ -434,10 +450,7 @@ Not many companies ask DSA questions for Frontend Engineer roles, but for the sa
  #
  <p align="center">
 	<a href="https://github.com/ghoshsuman845" alt="Github" title="github">
-       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=2088FF&logo=github&logoColor=fff"/>
-    </a>
-    <a href="https://github.com/ghoshsuman845/ghoshsuman845" alt="Github Stars" title="Star Mark Repo">
-        <img src="https://img.shields.io/badge/Shower_stars_if_you_like_my_repos-15k?style=for-the-badge&color=ffd000&logo=apachespark&logoColor=black"/>
+       <img src="https://img.shields.io/badge/For_More_Useful_Repos-15k?style=for-the-badge&color=ffd000&&logo=github&logoColor=fff"/>
     </a>
     <a href="https://www.linkedin.com/in/ghoshsuman0129/">
         <img src="https://img.shields.io/badge/For_Professional_Updates-15k?style=for-the-badge&color=0a66c2&logo=linkedin" alt="LinkedIn"/>
