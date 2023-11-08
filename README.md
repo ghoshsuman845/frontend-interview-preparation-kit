@@ -146,6 +146,7 @@ Day 5-7: Focus on other topics that weren't covered in the playlist. Practise th
 
       - [JS Coding Questions | Suman Ghosh](https://github.com/ghoshsuman845/js-coding-questions)
       - [Js Coding Challenge | Sadanand Pai](https://jscodechallenges.vercel.app/)
+      - [Learners Bucket EBook](https://learnersbucket.com/javascript-interview-guide-ebook/)
     </details>
 
 </details>
